@@ -1,4 +1,4 @@
-# Weakly-suprevised Crack Segmentation
+# Weakly-supervised Crack Segmentation
 
 ## Overwiev of the problem
 This problem is based on [Kaggle Crack Detection Dataset](https://www.kaggle.com/datasets/lakshaymiddha/crack-segmentation-dataset) containing over 11k of images. The goal was to detect whether there is a crack and create the segmentation map. The model however should be trained using only binary labels (crack/ no crack). For this problem it was also specified that it cannot be used domain-specific preprocessing or feature extraction.
